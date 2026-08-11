@@ -63,7 +63,7 @@ Tech: Java
 
 🐙 GitHub: ArshuFathima
 
-⭐ Always learning. Always building.## Hi there 👋
+⭐ Always learning. Always building.
 
 <!--
 **ArshuFathima/ArshuFathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
